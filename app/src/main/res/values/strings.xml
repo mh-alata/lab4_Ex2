@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Azan Pro</string>
+    <string name="az_tone">AZAN TONE</string>
+    <string name="az_st">Azan is stated</string>
+    <string name="az_pa">Azan is paused</string>
+</resources>
